@@ -1,11 +1,11 @@
 # 📊 Sales Data Analysis Dashboard
 
 ## 📖 Overview  
-This project analyzes sales data to uncover trends, top-performing regions, and profitable categories.
+This project focuses on analyzing sales data to uncover trends, identify high-performing regions, and understand category-wise performance.
 
 ---
 
-## 🛠 Tools Used  
+## 🛠 Tools & Technologies  
 - Power BI  
 - Excel  
 
@@ -13,22 +13,30 @@ This project analyzes sales data to uncover trends, top-performing regions, and 
 
 ## 📊 Key Insights  
 - West region generated the highest sales  
-- Technology category is the most profitable  
-- Sales peak during year-end months  
+- Technology category contributed the most revenue  
+- Sales show variation across different months  
 
 ---
 
 ## 📈 Dashboard Features  
-- Sales by Region  
-- Sales by Category  
-- Monthly Sales Trend  
-- Interactive Filters  
+- KPI Cards (Total Sales)  
+- Sales by Region (Bar Chart)  
+- Sales by Category (Pie Chart)  
+- Monthly Sales Trend (Line Chart)  
 
 ---
 
 ## 📸 Dashboard Preview  
-dashboard.png 
-<img width="1920" height="867" alt="image" src="https://github.com/user-attachments/assets/c4ed99d2-a0aa-4406-9a24-bf66cf1835ed" />
+![Dashboard](dashboard.png)
 
-## 🚀 Conclusion  
-This project demonstrates my ability to analyze data, create dashboards, and generate business insights.
+---
+
+## 🚀 What I Learned  
+- Data visualization using Power BI  
+- Identifying business insights from raw data  
+- Creating interactive dashboards  
+
+---
+
+## 📌 Conclusion  
+This project demonstrates my ability to analyze data and present insights effectively using visualization tools.
