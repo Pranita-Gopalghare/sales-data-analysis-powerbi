@@ -27,6 +27,8 @@ This project analyzes sales data to uncover trends, top-performing regions, and 
 ---
 
 ## 📸 Dashboard Preview  
+dashboard.png 
+<img width="1920" height="867" alt="image" src="https://github.com/user-attachments/assets/c4ed99d2-a0aa-4406-9a24-bf66cf1835ed" />
 
 ## 🚀 Conclusion  
 This project demonstrates my ability to analyze data, create dashboards, and generate business insights.
